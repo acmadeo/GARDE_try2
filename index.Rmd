@@ -1,5 +1,5 @@
 ---
-title: "**GARDE Implementation Toolkit - Exploration phase**"
+title: "**GARDE Implementation Toolkit - Exploration Phase**"
 output:
   html_document
 ---
